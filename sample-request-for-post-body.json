@@ -1,0 +1,98 @@
+{
+    "serverID": -1281441089,
+    "serverName": "sapwlydev04.isus.emc.com",
+    "systemProfile": "y_QAV",
+    "data": {
+      "serverContributionTime": 1094.7745,
+      "adkStrings": {},
+      "actionGroupPerformanceMetricConfig": "User action duration",
+      "actionGroupPerformanceMetricValue": 4803,
+      "onLoad": 4203,
+      "serverErrors": 0,
+      "actionGroup": "Ajax Actions",
+      "networkContributionTime": 0,
+      "navTiming": {
+        "documentRequest": 2352,
+        "dns": 0,
+        "processing": 4026,
+        "urlRedirect": null,
+        "connect": 0,
+        "documentResponse": 1509,
+        "ssl": null
+      },
+      "adkValues": {},
+      "domready": 3032,
+      "resourceSummary": {
+        "busyTime": 666,
+        "totalCount": 23,
+        "failedCount": 0,
+        "cdn": null,
+        "firstParty": {
+          "busyTime": 666,
+          "totalCount": 23,
+          "failedCount": 0,
+          "domains": [
+            {
+              "busyTime": 666,
+              "totalCount": 23,
+              "failedCount": 0,
+              "name": "myquotes-qav.emc.com"
+            }
+          ]
+        },
+        "thirdParty": null
+      },
+      "application": "B2C",
+      "apdex": 1,
+      "failingReasons": null,
+      "agentId": 651823833,
+      "tagId": 5300816,
+      "actionGroupPerformanceBaseline": 4000,
+      "prettyName": "click on \"Edit\"",
+      "speedIndex": null,
+      "visualCompleteTime": null,
+      "visualCompleteTrigger": null,
+      "xhrUrl": "/propel/en/storefront/unload",
+      "responseTime": 4803,
+      "visitId": 366045,
+      "endTime": 1552037546099,
+      "startTime": 1552037541295,
+      "businessTransactions": {},
+      "source": {
+        "title": "MyQuotes",
+        "viewDuration": 58091,
+        "url": "https://myquotes-qav.emc.com/propel/en/quote/detail?quoteId=0050569E67BE1ED990AD76669091A15A"
+      },
+      "appVersion": null,
+      "perceivedRenderTime": 3033,
+      "perceivedRenderTimeSlowestImageSrc": "https://myquotes-qav.emc.com/_ui/desktop/common/images/myQuotes.png",
+      "thirdPartyContribution": null,
+      "cdnContribution": null,
+      "firstPartyContribution": 0,
+      "clientDetails": {
+        "browserFamily": "Chrome",
+        "browserVersion": "72.0",
+        "osFamily": "Windows",
+        "osVersion": "Windows 10"
+      },
+      "additionalTags": {},
+      "isFailed": 0,
+      "userExperience": "satisfied",
+      "visitTag": "Prasanna.Gowda@emc.com",
+      "clientErrors": 0,
+      "name": "click on \"Edit\"",
+      "location": {
+        "continent": null,
+        "city": null,
+        "country": null,
+        "region": null,
+        "coordinates": null
+      },
+      "type": "click",
+      "target": {
+        "title": "MyQuotes",
+        "url": "https://myquotes-qav.emc.com/propel/en/quote/detail?quoteId=0050569E67BE1ED990AD76669091A15A"
+      },
+      "metaData": null
+    }
+  }
